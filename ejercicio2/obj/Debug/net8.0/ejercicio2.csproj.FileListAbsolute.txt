@@ -1,0 +1,14 @@
+C:\Users\KIRITO RINCON\OneDrive\Documentos\c#\ejercicio2\bin\Debug\net8.0\ejercicio2.exe
+C:\Users\KIRITO RINCON\OneDrive\Documentos\c#\ejercicio2\bin\Debug\net8.0\ejercicio2.deps.json
+C:\Users\KIRITO RINCON\OneDrive\Documentos\c#\ejercicio2\bin\Debug\net8.0\ejercicio2.runtimeconfig.json
+C:\Users\KIRITO RINCON\OneDrive\Documentos\c#\ejercicio2\bin\Debug\net8.0\ejercicio2.dll
+C:\Users\KIRITO RINCON\OneDrive\Documentos\c#\ejercicio2\bin\Debug\net8.0\ejercicio2.pdb
+C:\Users\KIRITO RINCON\OneDrive\Documentos\c#\ejercicio2\obj\Debug\net8.0\ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIRITO RINCON\OneDrive\Documentos\c#\ejercicio2\obj\Debug\net8.0\ejercicio2.AssemblyInfoInputs.cache
+C:\Users\KIRITO RINCON\OneDrive\Documentos\c#\ejercicio2\obj\Debug\net8.0\ejercicio2.AssemblyInfo.cs
+C:\Users\KIRITO RINCON\OneDrive\Documentos\c#\ejercicio2\obj\Debug\net8.0\ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\KIRITO RINCON\OneDrive\Documentos\c#\ejercicio2\obj\Debug\net8.0\ejercicio2.dll
+C:\Users\KIRITO RINCON\OneDrive\Documentos\c#\ejercicio2\obj\Debug\net8.0\refint\ejercicio2.dll
+C:\Users\KIRITO RINCON\OneDrive\Documentos\c#\ejercicio2\obj\Debug\net8.0\ejercicio2.pdb
+C:\Users\KIRITO RINCON\OneDrive\Documentos\c#\ejercicio2\obj\Debug\net8.0\ejercicio2.genruntimeconfig.cache
+C:\Users\KIRITO RINCON\OneDrive\Documentos\c#\ejercicio2\obj\Debug\net8.0\ref\ejercicio2.dll
